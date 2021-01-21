@@ -12,7 +12,7 @@ A fun little assembly language program I wrote during the course "Microprocessor
 **NOTE:** The program was created for and tested on emu8086.
 
 **Improvemnts (?)**
-- The program can be changed to take input from the console instead of them being hard-coded. It can handle more or less elements even in hard coded.
+- The program can be changed to take input from the console instead of them being hard-coded. It can handle more or less elements just *hard-coded*.
 - Show input and output on console.
 - ???
 - Profit
